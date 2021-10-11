@@ -1,9 +1,22 @@
 [
   {
+    "package": "RMODFLOW",
+    "url": "https://github.com/rogiersbart/RMODFLOW",
+    "via": ["RMT3DMS"],
+    "branch": "develop",
+    "from": "RMT3DMS"
+  },
+  {
     "package": "ipapi",
     "url": "https://github.com/hrbrmstr/ipapi",
     "via": ["bro", "rsthemes"],
     "from": "bro"
+  },
+  {
+    "package": "raylibr",
+    "url": "https://github.com/jeroenjanssens/raylibr",
+    "via": ["RMT3DMS", "RMODFLOW", "rui"],
+    "from": "RMT3DMS"
   },
   {
     "package": "raylibr",
@@ -32,6 +45,12 @@
   {
     "package": "rui",
     "url": "https://github.com/rogiersbart/rui",
+    "via": ["RMT3DMS", "RMODFLOW"],
+    "from": "RMT3DMS"
+  },
+  {
+    "package": "rui",
+    "url": "https://github.com/rogiersbart/rui",
     "via": ["bro"],
     "from": "bro"
   },
@@ -46,6 +65,12 @@
     "url": "https://github.com/rogiersbart/spectralscale",
     "via": ["RMODFLOW"],
     "from": "RMODFLOW"
+  },
+  {
+    "package": "spectralscale",
+    "url": "https://github.com/rogiersbart/spectralscale",
+    "via": ["RMT3DMS", "RMODFLOW"],
+    "from": "RMT3DMS"
   },
   {
     "package": "std",
