@@ -19,6 +19,12 @@
     "from": "bro"
   },
   {
+    "package": "ipapi",
+    "url": "https://github.com/hrbrmstr/ipapi",
+    "via": ["rsthemes"],
+    "from": "rsthemes"
+  },
+  {
     "package": "raylibr",
     "url": "https://github.com/jeroenjanssens/raylibr",
     "via": ["RMODPATH", "RMODFLOW", "rui"],
@@ -89,6 +95,12 @@
     "url": "https://github.com/rstudio/sass",
     "via": ["bro", "rsthemes"],
     "from": "bro"
+  },
+  {
+    "package": "sass",
+    "url": "https://github.com/rstudio/sass",
+    "via": ["rsthemes"],
+    "from": "rsthemes"
   },
   {
     "package": "spectralscale",
