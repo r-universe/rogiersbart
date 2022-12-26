@@ -1,0 +1,14 @@
+[
+  {
+    "package": "rui",
+    "url": "https://github.com/rogiersbart/rui",
+    "via": ["RMODFLOW"],
+    "from": "RMODFLOW"
+  },
+  {
+    "package": "spectralscale",
+    "url": "https://github.com/rogiersbart/spectralscale",
+    "via": ["RMODFLOW"],
+    "from": "RMODFLOW"
+  }
+]

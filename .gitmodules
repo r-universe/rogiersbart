@@ -5,6 +5,14 @@
 [submodule "RMODFLOW"]
 	path = RMODFLOW
 	url = https://github.com/rogiersbart/RMODFLOW
+[submodule "rui"]
+	path = rui
+	url = https://github.com/rogiersbart/rui
+	registered = false
+[submodule "spectralscale"]
+	path = spectralscale
+	url = https://github.com/rogiersbart/spectralscale
+	registered = false
 [submodule "ti"]
 	path = ti
 	url = https://github.com/rogiersbart/ti
