@@ -39,6 +39,12 @@
   {
     "package": "raylibr",
     "url": "https://github.com/jeroenjanssens/raylibr",
+    "via": ["nmhsa", "rui"],
+    "from": "nmhsa"
+  },
+  {
+    "package": "raylibr",
+    "url": "https://github.com/jeroenjanssens/raylibr",
     "via": ["rui"],
     "from": "rui"
   },
@@ -71,6 +77,12 @@
     "url": "https://github.com/rogiersbart/rui",
     "via": ["bro"],
     "from": "bro"
+  },
+  {
+    "package": "rui",
+    "url": "https://github.com/rogiersbart/rui",
+    "via": ["nmhsa"],
+    "from": "nmhsa"
   },
   {
     "package": "sass",
