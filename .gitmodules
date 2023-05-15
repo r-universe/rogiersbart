@@ -20,6 +20,10 @@
 [submodule "cmdstanr"]
 	path = cmdstanr
 	url = https://github.com/stan-dev/cmdstanr
+[submodule "ipapi"]
+	path = ipapi
+	url = https://github.com/hrbrmstr/ipapi
+	registered = false
 [submodule "morphology"]
 	path = morphology
 	url = https://github.com/rogiersbart/morphology
@@ -39,6 +43,10 @@
 [submodule "rui"]
 	path = rui
 	url = https://github.com/rogiersbart/rui
+[submodule "sass"]
+	path = sass
+	url = https://github.com/rstudio/sass
+	registered = false
 [submodule "spectralscale"]
 	path = spectralscale
 	url = https://github.com/rogiersbart/spectralscale

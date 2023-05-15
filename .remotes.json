@@ -1,9 +1,39 @@
 [
   {
+    "package": "ipapi",
+    "url": "https://github.com/hrbrmstr/ipapi",
+    "via": ["bro", "rsthemes"],
+    "from": "bro"
+  },
+  {
+    "package": "raylibr",
+    "url": "https://github.com/jeroenjanssens/raylibr",
+    "via": ["bro", "rui"],
+    "from": "bro"
+  },
+  {
+    "package": "rsthemes",
+    "url": "https://github.com/gadenbuie/rsthemes",
+    "via": ["bro"],
+    "from": "bro"
+  },
+  {
     "package": "rui",
     "url": "https://github.com/rogiersbart/rui",
     "via": ["RMODFLOW"],
     "from": "RMODFLOW"
+  },
+  {
+    "package": "rui",
+    "url": "https://github.com/rogiersbart/rui",
+    "via": ["bro"],
+    "from": "bro"
+  },
+  {
+    "package": "sass",
+    "url": "https://github.com/rstudio/sass",
+    "via": ["bro", "rsthemes"],
+    "from": "bro"
   },
   {
     "package": "spectralscale",
