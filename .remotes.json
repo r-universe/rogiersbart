@@ -10,5 +10,11 @@
     "url": "https://github.com/rogiersbart/spectralscale",
     "via": ["RMODFLOW"],
     "from": "RMODFLOW"
+  },
+  {
+    "package": "std",
+    "url": "https://github.com/rogiersbart/std",
+    "via": ["ti"],
+    "from": "ti"
   }
 ]

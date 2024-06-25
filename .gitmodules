@@ -13,6 +13,10 @@
 	path = spectralscale
 	url = https://github.com/rogiersbart/spectralscale
 	registered = false
+[submodule "std"]
+	path = std
+	url = https://github.com/rogiersbart/std
+	registered = false
 [submodule "ti"]
 	path = ti
 	url = https://github.com/rogiersbart/ti
