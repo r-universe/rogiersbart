@@ -50,6 +50,12 @@
   {
     "package": "std",
     "url": "https://github.com/rogiersbart/std",
+    "via": ["ra"],
+    "from": "ra"
+  },
+  {
+    "package": "std",
+    "url": "https://github.com/rogiersbart/std",
     "via": ["ti"],
     "from": "ti"
   }
