@@ -111,6 +111,12 @@
   {
     "package": "std",
     "url": "https://github.com/rogiersbart/std",
+    "via": ["morphology"],
+    "from": "morphology"
+  },
+  {
+    "package": "std",
+    "url": "https://github.com/rogiersbart/std",
     "via": ["ra"],
     "from": "ra"
   },
