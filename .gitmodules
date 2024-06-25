@@ -1,4 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/rogiersbart/rogiersbart.r-universe.dev
 	branch = HEAD
+[submodule "RMODFLOW"]
+	path = RMODFLOW
+	url = https://github.com/rogiersbart/RMODFLOW
+[submodule "ti"]
+	path = ti
+	url = https://github.com/rogiersbart/ti
