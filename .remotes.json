@@ -12,6 +12,12 @@
     "from": "bro"
   },
   {
+    "package": "raylibr",
+    "url": "https://github.com/jeroenjanssens/raylibr",
+    "via": ["rui"],
+    "from": "rui"
+  },
+  {
     "package": "rsthemes",
     "url": "https://github.com/gadenbuie/rsthemes",
     "via": ["bro"],
