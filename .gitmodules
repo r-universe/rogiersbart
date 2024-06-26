@@ -2,21 +2,52 @@
 	path = .registry
 	url = https://github.com/rogiersbart/rogiersbart.r-universe.dev
 	branch = HEAD
+[submodule "RDCOMClient"]
+	path = RDCOMClient
+	url = https://github.com/omegahat/RDCOMClient
 [submodule "RMODFLOW"]
 	path = RMODFLOW
 	url = https://github.com/rogiersbart/RMODFLOW
+[submodule "RMODPATH"]
+	path = RMODPATH
+	url = https://github.com/cneyens/RMODPATH
+[submodule "RMT3DMS"]
+	path = RMT3DMS
+	url = https://github.com/rogiersbart/RMT3DMS
+[submodule "bro"]
+	path = bro
+	url = https://github.com/rogiersbart/bro
+[submodule "cmdstanr"]
+	path = cmdstanr
+	url = https://github.com/stan-dev/cmdstanr
+[submodule "morphology"]
+	path = morphology
+	url = https://github.com/rogiersbart/morphology
+[submodule "nmhsa"]
+	path = nmhsa
+	url = https://github.com/rogiersbart/nmhsa
+[submodule "ra"]
+	path = ra
+	url = https://github.com/rogiersbart/ra
+[submodule "raylibr"]
+	path = raylibr
+	url = https://github.com/rogiersbart/raylibr
+	branch = prefix-class-names
+[submodule "rsthemes"]
+	path = rsthemes
+	url = https://github.com/gadenbuie/rsthemes
 [submodule "rui"]
 	path = rui
 	url = https://github.com/rogiersbart/rui
-	registered = false
 [submodule "spectralscale"]
 	path = spectralscale
 	url = https://github.com/rogiersbart/spectralscale
-	registered = false
 [submodule "std"]
 	path = std
 	url = https://github.com/rogiersbart/std
-	registered = false
 [submodule "ti"]
 	path = ti
 	url = https://github.com/rogiersbart/ti
+[submodule "wateRinfo"]
+	path = wateRinfo
+	url = https://github.com/ropensci/wateRinfo
