@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/rogiersbart/rogiersbart.r-universe.dev
 	branch = HEAD
+[submodule "RDCOMClient"]
+	path = RDCOMClient
+	url = https://github.com/BSchamberger/RDCOMClient
 [submodule "RMODFLOW"]
 	path = RMODFLOW
 	url = https://github.com/rogiersbart/RMODFLOW
