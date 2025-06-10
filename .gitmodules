@@ -11,6 +11,9 @@
 [submodule "RMT3DMS"]
 	path = RMT3DMS
 	url = https://github.com/rogiersbart/RMT3DMS
+[submodule "arg"]
+	path = arg
+	url = https://github.com/rogiersbart/arg
 [submodule "bro"]
 	path = bro
 	url = https://github.com/rogiersbart/bro
