@@ -17,10 +17,6 @@
 [submodule "bro"]
 	path = bro
 	url = https://github.com/rogiersbart/bro
-[submodule "ipapi"]
-	path = ipapi
-	url = https://github.com/hrbrmstr/ipapi
-	registered = false
 [submodule "morphology"]
 	path = morphology
 	url = https://github.com/rogiersbart/morphology
@@ -34,17 +30,9 @@
 	path = raylibr
 	url = https://github.com/rogiersbart/raylibr
 	branch = prefix-class-names
-[submodule "rsthemes"]
-	path = rsthemes
-	url = https://github.com/gadenbuie/rsthemes
-	registered = false
 [submodule "rui"]
 	path = rui
 	url = https://github.com/rogiersbart/rui
-[submodule "sass"]
-	path = sass
-	url = https://github.com/rstudio/sass
-	registered = false
 [submodule "spectralscale"]
 	path = spectralscale
 	url = https://github.com/rogiersbart/spectralscale
